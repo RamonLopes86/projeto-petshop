@@ -168,7 +168,102 @@ li{
 
 .roxo1 , .roxo2{
 
-    background-color: rgba(137, 43, 226, 0.247);
+    background-color:#3C184E;
+    color: white;
+    text-align: center;
+}
+
+.roxo1 h1 , .roxo2 h1 {
+
+    padding-top: 70px;
+    padding-bottom: 30px;
+    font-size: 30px;
+    font-weight: lighter;
+    max-width: 600px;
+    margin: auto;
+
+
+}
+
+.bold{
+
+    font-weight: bold;
+    
+}
+
+.redes{
+
+    width: 40px;
+    padding-bottom: 80px;
+    padding-right: 20px;
+}
+
+
+
+.marcas h1{
+
+    color: #3C184E;
+    padding-top: 80px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.bloco-fotos{
+
+    width:100%;
+    margin-bottom: 12px;
+    text-align: center;
+    
+}
+
+.parceiras{
+
+    
+    padding-right: 20px;
+    
+}
+
+.mapa{
+
+    position: relative;
+}
+
+.mapa h1{
+
+    text-align: center;
+    color: #3C184E;
+    padding-top: 70px;
+    font-weight: bold;
+   
+}
+
+.mapa p {
+
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+    color: #3C184E;
+}
+
+.father{
+
+    position: relative;
+    width: 100%;
+    height: 500px;
+   
+}
+
+iframe{
+
+    width: 90%;
+    padding: 0px 30px;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+  
+
 }
 
 

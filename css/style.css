@@ -150,6 +150,7 @@ li{
     width: calc(100% - 10px);
     padding: 0px 10px;
     padding-bottom: 70px;
+    padding-top: 20x;
    
     
     
@@ -162,6 +163,7 @@ li{
     box-sizing: border-box;
     box-shadow:  6px 6px 6px 0px rgba(0, 0, 0, 0.26);
     border-radius: 5px;
+    
    
     
 }
@@ -239,8 +241,9 @@ li{
 
 .mapa p {
 
-    padding-bottom: 30px;
-    padding-top: 30px;
+    
+    padding: 30px 20px;
+    box-sizing: border-box;
     text-align: center;
     color: #3C184E;
 }
@@ -250,6 +253,7 @@ li{
     position: relative;
     width: 100%;
     height: 500px;
+    
    
 }
 
@@ -265,6 +269,29 @@ iframe{
   
 
 }
+
+footer{
+
+    background-color: #3C184E;
+    position: relative;
+    
+
+}
+
+footer p {
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    background-color: rgba(199, 12, 12, 0.596);
+    
+    
+   
+    
+}
+
 
 
 

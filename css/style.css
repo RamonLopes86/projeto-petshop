@@ -147,19 +147,18 @@ li{
 
 
 .container-servicos{
-    width: calc(100% - 10px);
+    max-width: calc(100% - 20px);
     padding: 0px 10px;
     padding-bottom: 70px;
     padding-top: 20x;
+    
    
-    
-    
+   
 }
 
 .ft-servicos{
 
-    width: calc(96% / 5);
-    padding-right: 2px;
+    width: calc((93% / 5));
     box-sizing: border-box;
     box-shadow:  6px 6px 6px 0px rgba(0, 0, 0, 0.26);
     border-radius: 5px;

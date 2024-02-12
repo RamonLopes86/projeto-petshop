@@ -251,7 +251,7 @@ li{
 
     position: relative;
     width: 100%;
-    height: 500px;
+    height: 580px;
     
    
 }
@@ -288,11 +288,25 @@ footer p {
 
 
 #git{
-    width: 46px;
-    position: absolute;
-    top: -7px;
-    left: 389px;
 
+    width: 80px;
+    position: fixed;
+    bottom: 70px;
+    right: 25px;
+
+   
+
+    
+}
+
+#ramon{
+    /* display: inline-block; */
+    position: fixed;
+    bottom: 60px;
+    right: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    font-weight: bold;
     
 }
 
